@@ -1,4 +1,4 @@
-#Gold Recovery Prediction
+# Gold Recovery Prediction
 
 # Gold Recovery Prediction in Industrial Processes
 
